@@ -48,7 +48,11 @@ mini_etl_pipeline/
 └── README.md                # documentation
 
 🧰 How to Run
+
 git clone https://github.com/<your-username>/mini_etl_pipeline.git
+
 cd mini_etl_pipeline
+
 pip install pandas requests
+
 python mini_etl_pipeline.py
